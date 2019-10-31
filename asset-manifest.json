@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/golden-hour/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/golden-hour/static/js/main.08215f4f.chunk.js",
-    "main.js.map": "/golden-hour/static/js/main.08215f4f.chunk.js.map",
+    "main.js": "/golden-hour/static/js/main.9722b6bd.chunk.js",
+    "main.js.map": "/golden-hour/static/js/main.9722b6bd.chunk.js.map",
     "runtime-main.js": "/golden-hour/static/js/runtime-main.fe4e6846.js",
     "runtime-main.js.map": "/golden-hour/static/js/runtime-main.fe4e6846.js.map",
     "static/js/2.2e95d7f8.chunk.js": "/golden-hour/static/js/2.2e95d7f8.chunk.js",
     "static/js/2.2e95d7f8.chunk.js.map": "/golden-hour/static/js/2.2e95d7f8.chunk.js.map",
     "index.html": "/golden-hour/index.html",
-    "precache-manifest.78b7eaf67acb601a1bde8ba0d868e2d8.js": "/golden-hour/precache-manifest.78b7eaf67acb601a1bde8ba0d868e2d8.js",
+    "precache-manifest.237d4ffac42c1b70da36d8e1777a2b0d.js": "/golden-hour/precache-manifest.237d4ffac42c1b70da36d8e1777a2b0d.js",
     "service-worker.js": "/golden-hour/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/golden-hour/static/css/main.5ecd60fb.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.fe4e6846.js",
     "static/js/2.2e95d7f8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.08215f4f.chunk.js"
+    "static/js/main.9722b6bd.chunk.js"
   ]
 }
