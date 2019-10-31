@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfeb98644c303e2c7aa0a4f3ef2007fb",
+    "revision": "a1b0c8385d8b532449cb8bf28315eaa2",
     "url": "/golden-hour/index.html"
   },
   {
-    "revision": "43a7686bf5135c4b175a",
+    "revision": "c4f6fac2f82540416091",
     "url": "/golden-hour/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golden-hour/static/js/2.c068dd6c.chunk.js"
   },
   {
-    "revision": "43a7686bf5135c4b175a",
-    "url": "/golden-hour/static/js/main.509a1c47.chunk.js"
+    "revision": "c4f6fac2f82540416091",
+    "url": "/golden-hour/static/js/main.42a522c6.chunk.js"
   },
   {
     "revision": "f7bd69f696dddf42272e",
